@@ -10,14 +10,15 @@ _Please keep in mind that CUVTA is still a work in progress, and this is an earl
 3. Carefully fill in the details of the new VTA - you will **not** be able to edit it later!
 4. Click "Submit"
 5. Copy the **assistant key** and save it for future reference - **it will only be displayed once!**
-6. *Click "Try it out →" to open a chat with the newly created assistant*
+
+*Click "Try it out →" to open a chat with the newly created assistant*
 
 
 ## Usage
 1. Go to the [chat page](http://18.118.165.119/)
 2. Paste the assistant key you saved after creation and press `ENTER`
-3. Start chatting with the assistant
-4. To start a new chat, refresh the page (the old chat history will **not** be saved!)
+3. You can now chat with the assistant
+4. To start a new chat, refresh the page (the previous chat will be lost!)
 
 
 ## Tips and Guidelines
