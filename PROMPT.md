@@ -1,4 +1,4 @@
-# Columbia Virtual TA Prompts
+# Columbia University Virtual TA Prompts
 
 The following is the base prompt that every created assistant receives:
 ```
