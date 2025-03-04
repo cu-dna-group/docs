@@ -1,7 +1,7 @@
 # Columbia University Virtual TA Service
 This document provides instructions and best practice guidelines for the creation and usage of the Virtual TAs.
 
-_Please keep in mind that CUVTA is still a work in progress, and this is an early version of the service. You may encounter bugs or unexpected behavior. If you would like to report a problem or provide feedback, please [send us an email](mailto:kad2231@columbia.edu,dz2428@columbia.edu?subject=%5BCUVTA%5D)
+_Please keep in mind that CUVTA is still a work in progress, and this is an early version of the service. You may encounter bugs or unexpected behavior. If you would like to report a problem or provide feedback, please [send us an email](mailto:kad2231@columbia.edu,ss7017@columbia.edu?subject=%5BCUVTA%5D)
 ._
 
 ## Creation
